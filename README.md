@@ -1,2 +1,4 @@
 # First-project
-Web data scraper
+Flask app:
+This is a python web app that uses thee flask module
+Note: you are free to edit and improve the code however you want
